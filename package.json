@@ -2,7 +2,7 @@
   "name": "designo-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://priyankac79.github.io/designo-website/",
+  "homepage": "https://priyankac79.github.io/designo/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -15,7 +15,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.24.0"
+    "react-router-dom": "^6.22.3"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
